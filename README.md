@@ -13,13 +13,13 @@
 - You can reach me via these two emails: aykansaridogan@hotmail.com  or aykansaridogan@gmail.com
 
 
-❌ [facebook] [facebook]
+❌ [facebook] 
 
-📷 [instagram][instagram]
+📷 [instagram]
 
 👔 [linkedin]
 
-⏩ [youtube][youtube]
+⏩ [youtube]
 
 
 -->
