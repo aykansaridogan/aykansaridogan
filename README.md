@@ -1,6 +1,11 @@
 <!DOCTYPE html>
 <html lang="en">
- 
+
+[![Forks][forks-shield]][forks-url]
+[![Stargazers][stars-shield]][stars-url]
+[![Issues][issues-shield]][issues-url]
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
 <body>
 
  ## Hello, my name is Aykan
