@@ -1,14 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
+  
+ 
+ ![](https://visitor-badge.glitch.me/badge?page_id=aykansaridogan)
 
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+ <body>
 
-<body>
-
- ## Hello, my name is Aykan
+ ## Hello, I'm Aykan
  Computer Engineer Student in Yozgat/Turkey.
 - I usually work on C# and Python
 -  I'm currently trying to improve myself on Flutter and DevOps.
@@ -26,7 +24,6 @@ Languages I use in my projects:
 </div>    
 
  
-  ![](https://visitor-badge.glitch.me/badge?page_id=aykansaridogan)
  
  
 
