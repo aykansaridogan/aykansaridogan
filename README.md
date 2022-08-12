@@ -7,7 +7,8 @@
  <body>
 
  ## Hello, I'm Aykan
- Computer Engineer Student in Yozgat/Turkey.
+ I finished Yozgat Bozok University, Computer Engineering
+ I'm working in Ottonom Engineering in Nilüfer,Bursa,Turkey
 - I usually work on C# and Python
 -  I'm currently trying to improve myself on Flutter and DevOps.
 - You can reach me via these two emails: aykansaridogan@hotmail.com  or aykansaridogan@gmail.com
