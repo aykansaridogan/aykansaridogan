@@ -4,6 +4,12 @@
  
  ![](https://visitor-badge.glitch.me/badge?page_id=aykansaridogan)
 
+  
+     <img style="width:50%;" align="center" src="https://thumbs.gfycat.com/ExemplaryFairFeline-max-1mb.gif" >
+
+  
+  
+  
  <body>
 
  ## Hello, I'm Aykan
@@ -13,6 +19,10 @@
 -  I'm currently trying to improve myself on Flutter and DevOps.
 - You can reach me via these two emails: aykansaridogan@hotmail.com  or aykansaridogan@gmail.com
  
+
+   
+   
+   
  
 Languages I use in my projects:
 
