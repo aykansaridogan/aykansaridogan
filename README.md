@@ -36,7 +36,7 @@
 ### :fire: My Stats :
 
 [![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs?username=aykansaridogan&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia)]
-![Github stats 2](https://github-readme-streak-stats.herokuapp.com/?user=aykansaridogan)
+
 
 ----
   ![](https://visitor-badge.glitch.me/badge?page_id=aykansaridogan)
