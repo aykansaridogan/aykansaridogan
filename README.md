@@ -4,8 +4,6 @@
  ## Hello, I'm Aykan
 
   -I finished Yozgat Bozok University, Computer Engineering 
- 
-  -I'm working in Ottonom Engineering in Nilüfer,Bursa,Turkey
   
   -I usually work on C# and Python
   
