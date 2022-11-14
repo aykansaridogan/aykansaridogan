@@ -5,7 +5,7 @@
 
   -I finished Yozgat Bozok University, Computer Engineering 
   
-  -I usually work on C# and Python
+  -I usually work on Web Developer
   
   -I'm currently trying to improve myself on Flutter and DevOps.
 
