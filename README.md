@@ -26,13 +26,6 @@
 </a>  
   
   
- 
-
-
-  
-  
-### :bomb: My Stats :
-[![GitHub Streak](https://github-readme-stats.vercel.app/api/top-langs?username=aykansaridogan&show_icons=true&locale=en&layout=compact&langs_count=8&theme=algolia)]
 
 
 
